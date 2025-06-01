@@ -51,3 +51,32 @@ This project focuses on addressing delays in responding to consumer complaints w
 
 # Data Analysis & Decision
 
+The analysis of customer complaint data using Python and Power BI revealed several key factors contributing to delays in complaint response. Through data visualization in Power BI, it was observed that certain complaint types particularly those related to **credit card** and **managing account services** had significantly higher instances of delayed responses. The submission channel also played a critical role; complaints submitted via phone and referral sources showed more delays compared to those submitted through the web.
+
+Regional analysis highlighted specific districts where delays were consistently higher, indicating potential resource or process inefficiencies. Python analysis supported these findings through trend identification and statistical breakdowns of response timelines.
+
+To overcome these issues, the following steps are recommended:
+
+Prioritize high-delay issue types with dedicated handling teams.
+
+Optimize the complaint submission process, promoting efficient channels like the web.
+
+Allocate additional resources or training in underperforming districts.
+
+Implement real-time tracking of complaints and response performance metrics in Power BI for management oversight.
+
+These measures aim to reduce response time, improve operational efficiency, and most importantly, rebuild customer trust in the bank’s complaint resolution system.
+
+# Conclusion
+
+This project successfully identified key factors contributing to delays in customer complaint responses using Python analysis and Power BI visualization. By examining submission methods, issue types, and regional trends, actionable insights were generated. Implementing the recommended strategies can enhance response efficiency, strengthen customer trust, and significantly improve the overall complaint resolution process within the bank.
+
+# Reference
+
+
+
+# Contact
+
+**E-Mail Address** : bhattacharyyaarun2001@gmail.com
+
+**Linkedin** : https://www.linkedin.com/in/arunabha2024/
