@@ -27,23 +27,23 @@ The dataset titled Consumer_Complaints.csv contains 62,516 entries and 12 column
 
 **PostgreSQL**
 
-•	Version : PostgreSQL 16 , Windows 11 
+•	**Version :** PostgreSQL 16 , Windows 11 
 
-•	Description: PostgreSQL is a powerful, open-source object-relational database system known for its reliability, feature robustness, and standards compliance.
+•	**Description :** PostgreSQL is a powerful, open-source object-relational database system known for its reliability, feature robustness, and standards compliance.
 
 **Jupyter Notebook**
 
-•	Version : JupyterLab 4.0 / Notebook 7.1 (Latest release in 2025)
+•	**Version :** JupyterLab 4.0 / Notebook 7.1 (Latest release in 2025)
 
-•	Python Version: Python 3.11
+•	**Python Version :** Python 3.11
 
-•	Description: Jupyter Notebook provides an interactive environment for writing and running code, visualizing data, and documenting analysis.
+•	**Description :** Jupyter Notebook provides an interactive environment for writing and running code, visualizing data, and documenting analysis.
 
 **Power BI Desktop**
 
-•	Version : Power BI Desktop May 2025 Update (Version 2.128.x)
+•	**Version :** Power BI Desktop May 2025 Update (Version 2.128.x)
 
-•	Description: Power BI is a business analytics tool that enables data transformation, modeling, and rich interactive visualizations.
+•	**Description :** Power BI is a business analytics tool that enables data transformation, modeling, and rich interactive visualizations.
 
 # Overview
 
@@ -59,11 +59,11 @@ To overcome these issues, the following steps are recommended:
 
 Prioritize high-delay issue types with dedicated handling teams.
 
-Optimize the complaint submission process, promoting efficient channels like the web.
+Optimize the complaint submission process, promoting efficient channels like the **web**.
 
 Allocate additional resources or training in underperforming districts.
 
-Implement real-time tracking of complaints and response performance metrics in Power BI for management oversight.
+Implement real-time tracking of complaints and response performance metrics in **Power BI** for management oversight.
 
 These measures aim to reduce response time, improve operational efficiency, and most importantly, rebuild customer trust in the bank’s complaint resolution system.
 
@@ -73,7 +73,13 @@ This project successfully identified key factors contributing to delays in custo
 
 # Reference
 
+**Project data set :** https://mavenanalytics.io/data-playground?page=9&pageSize=5
 
+**EDA with Python :** https://www.analyticsvidhya.com/blog/2022/07/step-by-step-exploratory-data-analysis-eda-using-python/
+
+**Power BI DAX :** https://www.datacamp.com/tutorial/power-bi-dax-tutorial-for-beginners
+
+**PostgreSQL Database Creation :** https://www.geeksforgeeks.org/postgresql-create-database/
 
 # Contact
 
