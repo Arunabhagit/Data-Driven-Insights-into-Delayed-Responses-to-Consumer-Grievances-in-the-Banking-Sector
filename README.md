@@ -53,7 +53,7 @@ This project focuses on addressing delays in responding to consumer complaints w
 
 The analysis of customer complaint data using Python and Power BI revealed several key factors contributing to delays in complaint response. Through data visualization in Power BI, it was observed that certain complaint types particularly those related to **credit card** and **managing account services** had significantly higher instances of delayed responses. The submission channel also played a critical role; complaints submitted via phone and referral sources showed more delays compared to those submitted through the web.
 
-Regional analysis highlighted specific districts where delays were consistently higher, indicating potential resource or process inefficiencies. Python analysis supported these findings through trend identification and statistical breakdowns of response timelines.
+**Regional analysis** highlighted specific districts where delays were consistently higher, indicating potential resource or process inefficiencies. Python analysis supported these findings through trend identification and statistical breakdowns of response timelines.
 
 To overcome these issues, the following steps are recommended:
 
